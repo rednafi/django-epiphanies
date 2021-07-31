@@ -15,6 +15,10 @@
 
 * [Fat Models are Considered Harmful](https://news.ycombinator.com/item?id=23322880) -> A hackernews discussion on why **Fat Models** recommendation is one of the most destructive architecture pattern.
 
+## Performance Optimizations
+
+* [Django Database Optimization Tips](https://betterprogramming.pub/django-database-optimization-tips-4e11631dbc2c) -> A few common DB optimizations with examples.
+
 ## Projects
 
 * [Django Template Delocalized](https://github.com/rednafi/django-template-delocalized) -> A comprehensive POC of decoupling template rendition to a separate Django application.
