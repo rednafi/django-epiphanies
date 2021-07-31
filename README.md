@@ -21,6 +21,9 @@
 
 * [Hook Slinger](https://github.com/rednafi/hook-slinger) -> Webhook as a standalone service.
 
+## Books
+
+* [Architecture Patterns with Python - Harry Percival & Bob Gregory](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python) -> A deep dive into DDD and Event driven architecture patterns. The book also talks about strategies to exercise DDD and event-driven architecture practices within the realm of a highly opinionated environment like Django.
 
 
 <div align="center">
