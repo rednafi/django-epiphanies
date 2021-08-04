@@ -29,6 +29,12 @@
 
 * [Architecture Patterns with Python - Harry Percival & Bob Gregory](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python) -> A deep dive into DDD and Event driven architecture patterns in the Python ecosystem. The book also talks about strategies to exercise DDD and event-driven architecture practices within the realm of a highly opinionated environment like Django.
 
+* [Django for Beginners - William Vincent](https://djangoforbeginners.com/) -> An excellent guide to dipping your toes into the Django ecosystem.
+
+* [Django for Professionals - William Vincent](https://djangoforprofessionals.com/) -> A comprehensive guide to productionizing your first Django application.
+
+* [Django for APIs - Willium Vincent](https://djangoforapis.com/) -> A practitioners guide to building REST APIs with Django Rest Framework. This book assumes previous exposure to Django.
+
 <div align="center">
 <i> ✨ 🍰 ✨ </i>
 </div>
