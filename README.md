@@ -19,6 +19,8 @@
 
 * [Django Database Optimization Tips](https://betterprogramming.pub/django-database-optimization-tips-4e11631dbc2c) -> A few common DB optimizations with examples.
 
+* [Mitigating (n+1) Query Issues with select_related() & prefetch_related()](https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related) -> I find that the Django documentation does a better job at explaining the role of `select_related` and `prefetch_related` methods for query optimizations than most other resources. Checkout the section where the doc explains how to use `Prefetch` object to further control the prefetch operation. It's crazy powerful.
+
 
 ## Django Rest FrameWork
 
