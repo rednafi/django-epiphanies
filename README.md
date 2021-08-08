@@ -21,6 +21,10 @@
 
 * [Mitigating (n+1) Query Issues with select_related() & prefetch_related()](https://docs.djangoproject.com/en/dev/ref/models/querysets/#prefetch-related) -> I find that the Django documentation does a better job at explaining the role of `select_related` and `prefetch_related` methods for query optimizations than most other resources. Checkout the section where the doc explains how to use `Prefetch` object to further control the prefetch operation. It's crazy powerful.
 
+* Django [Select Related](https://www.youtube.com/watch?v=mO-pfdJpnBA) & [Prefetch Related](https://www.youtube.com/watch?v=5-UN4YPDDQc) Examples -> Two YouTube videos that I found useful to understand select and prefetch related methods. However, first you should definitely go through the documentation listed above. It's awesome.
+
+* [Django Prefetch Related Examples]
+
 
 ## Django Rest FrameWork
 
