@@ -23,7 +23,10 @@
 
 * Django [Select Related](https://www.youtube.com/watch?v=mO-pfdJpnBA) & [Prefetch Related](https://www.youtube.com/watch?v=5-UN4YPDDQc) Examples -> Two YouTube videos that I found useful to understand select and prefetch related methods. However, first you should definitely go through the documentation listed above. It's awesome.
 
-* [Django Prefetch Related Examples]
+
+## Misc
+
+* [How to Add a Text Filter to Django Admin](https://hakibenita.com/how-to-add-a-text-filter-to-django-admin) -> Django's admin panel is a great way to quickly build admin specific CRUD pages. However, one caveat is that the built in search doesn't scale very well. This post shows a way to extend the built-in filters to achieve auto-complete like feature in the pages containing object tables.
 
 
 ## Django Rest FrameWork
