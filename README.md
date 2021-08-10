@@ -34,11 +34,13 @@
 
 * [DRF Serializer Relations](https://www.django-rest-framework.org/api-guide/relations/) -> DRF serializer relations can be confusing at times. At my workplace, we were using `HyperlinkedModelSerializer` for everything and this would at times, lead to confusing errors. By default, when `ModelSerializer` is used to serialize a model, DRF uses `PrimaryKeyRelatedField` to resolve field relationships. However, it uses `HyperlinkedRelatedField` to resolve relationships if `HyperlinkedModelSerializer` is used instead.
 
-## Projects
+## Tools & Projects
 
 * [Django Template Delocalized](https://github.com/rednafi/django-template-delocalized) -> A comprehensive POC of decoupling template rendition to a separate Django application.
 
 * [Hook Slinger](https://github.com/rednafi/hook-slinger) -> Webhook as a standalone service.
+
+* [PyInstrument](https://github.com/joerick/pyinstrument) -> Call stack profiler for Python. Shows why your code is slow!
 
 ## Books
 
