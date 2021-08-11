@@ -26,6 +26,8 @@
 
 ## Misc
 
+* [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/) -> Quick customization of Django Admin using only Python.
+
 * [How to Add a Text Filter to Django Admin](https://hakibenita.com/how-to-add-a-text-filter-to-django-admin) -> Django's admin panel is a great way to quickly build admin specific CRUD pages. However, one caveat is that the built-in search doesn't scale very well. This post shows a way to extend the built-in filters to achieve auto-complete-like features in the pages containing object tables.
 
 ## Django Rest FrameWork
