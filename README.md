@@ -15,6 +15,8 @@
 
 * [Fat Models are Considered Harmful](https://news.ycombinator.com/item?id=23322880) -> A hackernews discussion on why **Fat Models** recommendation is one of the most destructive architecture patterns.
 
+* [Spontaneous Transition from Monolithic to Microservice Oriented Architecture](https://doordash.engineering/2020/12/02/how-doordash-transitioned-from-a-monolith-to-microservices/) -> Microservices are cute when you get to build them from scratch. However, often it becomes a necessity to break down a gargantuan monolith into mutliple service-oriented entities to keep up with the business requirements. This article contains wisdoms on how Doordash attempted that back in Q4 2019.
+
 ## Performance Optimizations
 
 * [Django Database Optimization Tips](https://betterprogramming.pub/django-database-optimization-tips-4e11631dbc2c) -> A few common DB optimizations with examples.
