@@ -27,6 +27,8 @@
 
 * [PostgreSQL Indexing : How, Why, and When - Curtis Maloney](https://www.youtube.com/watch?v=clrtT_4WBAw) -> Here, the speaker adds indexes on a simple PostgreSQL table incrementally and runs `Explain` on different queriers to showcase the performance improvements.
 
+* [Hunting Performance in Django Code - Sümer Cip](https://www.youtube.com/watch?v=ZBJ30MAlc_0) -> This talk offers a great starting point for learning about
+performance profilers for your Python application. It primarily talks about the distinctions between different **tracing** and **sampling** profilers.
 ## Misc
 
 * [Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/) -> Quick customization of Django Admin using only Python.
