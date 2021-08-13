@@ -25,6 +25,7 @@
 
 * Django [Select Related](https://www.youtube.com/watch?v=mO-pfdJpnBA) & [Prefetch Related](https://www.youtube.com/watch?v=5-UN4YPDDQc) Examples -> Two YouTube videos that I found useful to understand select and prefetch related methods. However, first, you should definitely go through the documentation listed above. It's awesome.
 
+* [PostgreSQL Indexing : How, Why, and When - Curtis Maloney](https://www.youtube.com/watch?v=clrtT_4WBAw) -> Here, the speaker adds indexes on a simple PostgreSQL table incrementally and runs `Explain` on different queriers to showcase the performance improvements.
 
 ## Misc
 
