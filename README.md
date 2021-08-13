@@ -27,6 +27,8 @@
 
 * [PostgreSQL Indexing : How, Why, and When - Curtis Maloney](https://www.youtube.com/watch?v=clrtT_4WBAw) -> Here, the speaker adds indexes on a simple PostgreSQL table incrementally and runs `Explain` on different queriers to showcase the performance improvements.
 
+* [Unlocking the full potential of PostgreSQL indexes in Django - Haki Benita](https://www.youtube.com/watch?v=BhxCYK6TCwo) -> While, the loop of adding the default B-Tree index to the target columns and running `Explain` on the query works well enough, the latest version of Django opens up the opportunities of leveraging more esoteric indexes offered by PostgreSQL. Apart from **B-Tree Index**, the presenter also explores **Inclusive Index**, **Partial Index**, **Function Based Index**, **Hash Index**, and Block Range Index aka **BRIN**.
+
 * [Hunting Performance in Django Code - Sümer Cip](https://www.youtube.com/watch?v=ZBJ30MAlc_0) -> This talk offers a great starting point for learning about
 performance profilers for your Python application. It primarily talks about the distinctions between different **tracing** and **sampling** profilers.
 ## Misc
