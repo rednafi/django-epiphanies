@@ -29,6 +29,8 @@
 
 * [Unlocking the full potential of PostgreSQL indexes in Django - Haki Benita](https://www.youtube.com/watch?v=BhxCYK6TCwo) -> While, the loop of adding the default B-Tree index to the target columns and running `Explain` on the query works well enough, the latest version of Django opens up the opportunities of leveraging more esoteric indexes offered by PostgreSQL. Apart from **B-Tree Index**, the presenter also explores **Inclusive Index**, **Partial Index**, **Function Based Index**, **Hash Index**, and Block Range Index aka **BRIN**.
 
+* [Re-Introducing Hash Indexes in PostgreSQL - Haki Benita](https://hakibenita.com/postgresql-hash-index#conclusion) -> Prior to PostgreSQL 10, **Hash** indexes were extremely limited compared to the default B-Tree indexes and offered too little to be considered as a viable alternative. However, a few things has changed since then and this post stacks Hash indexes against B-Tree.
+
 * [Hunting Performance in Django Code - Sümer Cip](https://www.youtube.com/watch?v=ZBJ30MAlc_0) -> This talk offers a great starting point for learning about
 performance profilers for your Python application. It primarily talks about the distinctions between different **tracing** and **sampling** profilers.
 ## Misc
