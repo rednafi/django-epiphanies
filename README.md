@@ -39,7 +39,7 @@ performance profilers for your Python application. It primarily talks about the 
 
 * [How to Add a Text Filter to Django Admin](https://hakibenita.com/how-to-add-a-text-filter-to-django-admin) -> Django's admin panel is a great way to quickly build admin specific CRUD pages. However, one caveat is that the built-in search doesn't scale very well. This post shows a way to extend the built-in filters to achieve auto-complete-like features in the pages containing object tables.
 
-* [Django Transactions: Past, Present, and Future - Christophe Pettus](https://www.youtube.com/watch?v=ppwT0u98TmQ) -> An overiew of the evolution and the quirks of Django transactions in PostgreSQL context.
+* [Django Transactions: Past, Present, and Future - Christophe Pettus](https://www.youtube.com/watch?v=ppwT0u98TmQ) -> An overiew of the evolution and quirks of Django transactions in PostgreSQL context.
 
 ## Django Rest FrameWork
 
