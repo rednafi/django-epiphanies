@@ -63,6 +63,8 @@ performance profilers for your Python application. It primarily talks about the 
 
 * [Django for APIs - William Vincent](https://djangoforapis.com/) -> A practitioner's guide to building REST APIs with Django Rest Framework. This book assumes previous exposure to Django.
 
+* [Learn PostgreSQL: Build and manage high-performance database solutions using PostgreSQL 12 and 13 - Luca Ferrari, Enrico Pirozzi](https://www.packtpub.com/product/learn-postgresql-12/9781838985288) -> A beginners guide to navigate the tantalizing realm of RDBMS with PostgreSQL.
+
 <div align="center">
 <i> ✨ 🍰 ✨ </i>
 </div>
